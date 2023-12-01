@@ -1,1 +1,5 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "app.wellchoose.twfidodemo",
+               "sha256_cert_fingerprints": ["17:07:59:FF:6D:37:7A:4C:53:FA:21:2C:F9:28:94:32:2B:C2:BB:05:F6:5A:21:94:4C:38:4C:B2:63:39:0F:79"] }
+}]
